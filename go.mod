@@ -6,9 +6,9 @@ replace (
 	github.com/docker/distribution => github.com/docker/distribution v2.8.2+incompatible // rancher-machine requires a replace is set
 	github.com/rancher/aks-operator => github.com/rancher-teja/aks-operator v0.0.0-20260105061406-c404379d3191
 	github.com/rancher/apiserver => github.com/rancher-teja/apiserver v0.0.1
-	github.com/rancher/eks-operator => github.com/rancher-teja/eks-operator v0.0.0-20260105060337-28e72db9e4bf
+	github.com/rancher/eks-operator => github.com/rancher-teja/eks-operator v0.0.0-20260108052030-f030aa71b713
 	github.com/rancher/fleet/pkg/apis => github.com/rancher-teja/fleet/pkg/apis v0.0.0-20260105065345-0d78efc0f9ed
-	github.com/rancher/gke-operator => github.com/rancher-teja/gke-operator v0.0.0-20260105060846-5a0230418694
+	github.com/rancher/gke-operator => github.com/rancher-teja/gke-operator v0.0.0-20260108053007-8511bbae06e6
 	github.com/rancher/lasso => github.com/rancher-teja/lasso v0.0.1
 	github.com/rancher/norman => github.com/rancher-teja/norman v0.0.1
 	github.com/rancher/rke => github.com/rancher-teja/rke v0.0.0-20260105084347-a44d27becc38

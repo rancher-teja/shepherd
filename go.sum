@@ -2395,12 +2395,12 @@ github.com/rancher-teja/aks-operator v0.0.0-20260105061406-c404379d3191 h1:uO4w/
 github.com/rancher-teja/aks-operator v0.0.0-20260105061406-c404379d3191/go.mod h1:IkFU6Vfalmolh/HeRF8TYqgcYT0N8qOES4gZSdU43ms=
 github.com/rancher-teja/apiserver v0.0.1 h1:rCemOF8p+/TVPVDoNRY+s/GZEIPcTkdTrH5QVDAovfo=
 github.com/rancher-teja/apiserver v0.0.1/go.mod h1:E/hkwd8bYCtK3OlpA/SU/ZzRMvFkh8iHtEWYdwvURjI=
-github.com/rancher-teja/eks-operator v0.0.0-20260105060337-28e72db9e4bf h1:N1gSaDwNSiqTSGzqvlp57ThuSpF0I03Y0eG22vyiBXc=
-github.com/rancher-teja/eks-operator v0.0.0-20260105060337-28e72db9e4bf/go.mod h1:psQl5vXVmS6RJfpb8C7r/pVJ/lQDByzZqKZ3i6o39+o=
+github.com/rancher-teja/eks-operator v0.0.0-20260108052030-f030aa71b713 h1:ZGMRkwXQNkrcUf1cRnT3jbCuE43oOypMhcN+9XIq5jk=
+github.com/rancher-teja/eks-operator v0.0.0-20260108052030-f030aa71b713/go.mod h1:Lrd6sHLjRHmMOsrlrKv1ALGn+83dXO6SpOzffYHaa3Q=
 github.com/rancher-teja/fleet/pkg/apis v0.0.0-20260105065345-0d78efc0f9ed h1:owPQJdg8Fe0D3CRHo0ZOdUC9LABLUb18y7t1rYwD+ak=
 github.com/rancher-teja/fleet/pkg/apis v0.0.0-20260105065345-0d78efc0f9ed/go.mod h1:srlFTlA6425rCPRELTdtFcZM8wDNPaqW4O4aj6sArs4=
-github.com/rancher-teja/gke-operator v0.0.0-20260105060846-5a0230418694 h1:AlKxlyZEk5kXdcZFhV1IcsTx20dmZXmuywbMYzJKrC8=
-github.com/rancher-teja/gke-operator v0.0.0-20260105060846-5a0230418694/go.mod h1:8V1D20EX99FqOdnybSOw3C2jo1f3C9EEHK0c530Zzss=
+github.com/rancher-teja/gke-operator v0.0.0-20260108053007-8511bbae06e6 h1:tSx1IFleAmfqrtwI2rL0K/iW/+91mFv+FL1vW4mY/Rk=
+github.com/rancher-teja/gke-operator v0.0.0-20260108053007-8511bbae06e6/go.mod h1:ECM9j0yDE8xO5bMYjFuPXOgTSJeIgKqhNGUt4BSlUcQ=
 github.com/rancher-teja/lasso v0.0.1 h1:MruFFWWqiooh608SjC/vX0XCtGVFLf03aUTLDs8+jyg=
 github.com/rancher-teja/lasso v0.0.1/go.mod h1:svOYqeyBo4gQmXbwtPkJHvLpTx5auSa+wVmzoXT9f2k=
 github.com/rancher-teja/norman v0.0.1 h1:RGVHOKLZ2Xb5OLkskDppTmecyZIszl9TNb3sYnpiyoE=
