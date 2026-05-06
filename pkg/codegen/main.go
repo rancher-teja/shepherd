@@ -32,7 +32,7 @@ import (
 	networkingv1 "k8s.io/api/networking/v1"
 	rbacv1 "k8s.io/api/rbac/v1"
 
-	capi "sigs.k8s.io/cluster-api/api/v1beta1"
+	capi "sigs.k8s.io/cluster-api/api/core/v1beta2"
 )
 
 // main initializes the code generation for controllers and clients.
@@ -50,7 +50,7 @@ func main() {
 		"AutoscalingControllerPath":        "./pkg/generated/controllers/autoscaling",
 		"AppsControllerPath":               "./pkg/generated/controllers/apps",
 		"CoreControllerPath":               "./pkg/generated/controllers/core",
-		"NetworkingControllerPath":         "./pkg/generated/controllers/networking",
+		"NetworkingControllerPath":         "./pkg/generated/controllers/networking.k8s.io",
 		"RBACControllerPath":               "./pkg/generated/controllers/rbac",
 		"BatchControllerPath":              "./pkg/generated/controllers/batch",
 		"ManagementControllerPath":         "./pkg/generated/controllers/management.cattle.io",
